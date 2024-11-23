@@ -1,4 +1,3 @@
-```
 # 🐍 Comprehensive Python Interactive Tutorial
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
