@@ -111,10 +111,10 @@ Ensure you have **Python 3.8+** installed on your system.
 ## 🌐 Screenshots
 
 ### Home Screen
-![Home Screen](path/to/home_screen_screenshot.png)
+![Home Screen](https://github.com/D3fault07/python_learning_program_thing/blob/main/images/image1.png)
 
 ### Code Editor & Output Console
-![Code Editor](path/to/code_editor_screenshot.png)
+![Code Editor](https://github.com/D3fault07/python_learning_program_thing/blob/main/images/image2.png)
 
 ---
 
